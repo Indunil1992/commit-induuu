@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "481fadd9-311d-40af-8978-a91bcb9bdffe": {
+        "id": "481fadd9-311d-40af-8978-a91bcb9bdffe",
+        "parent": null,
+        "name": "commit-induuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "commit-induuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 19
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "commitInduuu"
+        },
+        "triggers": [],
+        "lastUpdated": 1627649808819
+      }
+    },
+    "openFiles": [
+      "481fadd9-311d-40af-8978-a91bcb9bdffe"
+    ],
+    "currentFileId": "481fadd9-311d-40af-8978-a91bcb9bdffe",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.3",
+    "projectName": "commit-induuu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1627649819778
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "commit-induuu",
+      "url": "https://github.com/Indunil1992/commit-induuu"
+    }
+  }
+}
